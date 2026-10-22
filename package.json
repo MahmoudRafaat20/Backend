@@ -1,0 +1,16 @@
+{
+  "name": "backend-task-1",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "validator": "^13.12.0",
+    "yargs": "^17.7.2"
+  }
+}
